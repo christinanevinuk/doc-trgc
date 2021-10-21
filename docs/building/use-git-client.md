@@ -1,0 +1,13 @@
+---
+title: Use Git client
+weight: 150
+last_reviewed_on: 2011-10-18
+review_in: 2 weeks
+---
+
+# Use Git client
+
+
+1. Doing stage/commit and push using a Git client, for example GitHub Desktop or GitKraken.
+
+2. Doing pull requests, issues, reviewers and PR discussion online with GitHub.

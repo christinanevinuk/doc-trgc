@@ -1,0 +1,12 @@
+---
+title: Use Command Line/Terminal
+weight: 100
+last_reviewed_on: 2011-10-18
+review_in: 2 weeks
+---
+
+# Use Command Line/Terminal or GitBash
+
+1. Doing stage/commit and push using a command line or GitBash.
+
+2. Doing pull requests, issues, reviewers and PR discussion online with GitHub.

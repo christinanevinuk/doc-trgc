@@ -1,0 +1,25 @@
+---
+title: Get GitHub account
+weight: 50
+last_reviewed_on: 2021-10-18
+review_in: 22 weeks
+---
+
+# Get GitHub account
+To contribute to the TRG, you will need a GitHub account so you can access the TRG repository.
+
+### Create GitHub account
+1. Go to [https://github.com/join](https://github.com/join).
+2. Type in the username, email address, and password you want to use.
+3. Check the email preferences box if you want.
+4. Verify your account by completing the verification puzzle.
+5. Click the Create account button. GitHub sends a launch code to your email.
+6. Go to your email and copy the launch code GitHub sent.
+7. Enter or paste the launch code into the spaces on the GitHub query page. A preferences wizard displays.
+8. Check the boxes of the options you want. Click Continue to continue.
+9. Select the Free option and click the Continue for free button. GitHub opens, with your new account logged in.
+
+### TBD - TRG GitHub repository
+
+- where will this be placed? Which space?
+- will they need space/account access like the HMRC space?
