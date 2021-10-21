@@ -8,26 +8,26 @@ pagination_label: Installation
 You can edit the TRG solely online, working from the GitHub website. If you want to work offline, you must install extra software. What needs to be installed varies depending on how you want to work.
 
 ## Online option
-If you want to work on the TRG online, the only action you must take is to get a [**GitHub account**](/documentation/installation/get-github-account.html.md.erb). If you already have one, you can use that.
+If you want to work on the TRG online, the only action you must take is to get a \[**GitHub account**]**get-github-account.md**. If you already have one, you can use that.
 
 
 ## Basic offline option
-For the basic offline working option, you will need a [**GitHub account**](/documentation/installation/get-github-account.html.md.erb), and to install the following:
+For the basic offline working option, you will need a \[**GitHub account**] *installation/get-github-account.md*, and to install the following:
 
-- [**Git**](/documentation/installation/install-git.html.md.erb)
-- [**Cloned TRG repository**](/documentation/installation/clone-repository.html.md.erb)
-- [**Markdown editor**](/documentation/installation/install-markdown-editor.html.md.erb) (optional)
-- [**Git client**](/documentation/installation/install-git-client.html.md.erb) (optional)
+- \[**Git**] *install-git.md*
+- \[**Cloned TRG repository**] *clone-repository.md*
+- \[**Markdown editor**] *install-markdown-editor.md* (optional)
+- \[**Git client**] *install-git-client.md* (optional)
 
 ## Advanced offline option
-For the advanced offline working option, you will need a [**GitHub account**](/documentation/installation/get-github-account.html.md.erb), and to install the following:
+For the advanced offline working option, you will need a \[**GitHub account**] *get-github-account.md*, and to install the following:
 
-- [**Git**](/documentation/installation/install-git.html.md.erb)
-- [**Cloned TRG repository**](/documentation/installation/clone-repository.html.md.erb)
-- [**Git client**](/documentation/installation/install-git-client.html.md.erb) (optional)
-- [**Static site generator**](/documentation/installation/install-ssg.html.md.erb)
-- [**Template**](/documentation/installation/install-template.html.md.erb)
-- [**Code editor**](/documentation/installation/install-code-editor.html.md.erb)
+- \[**Git**] *install-git.md*
+- \[**Cloned TRG repository**] *clone-repository.md*
+- \[**Git client**] *install-git-client.md* (optional)
+- \[**Static site generator**] *install-ssg.md*
+- \[**Template**] *install-template.md*
+- \[**Code editor**] *install-code-editor.md*
 
 ### Support
 Further help with TRG technical problems is available on the **#trg-tech-support** Slack channel.

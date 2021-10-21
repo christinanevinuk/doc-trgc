@@ -4,17 +4,14 @@ title: Page header/frontmatter field
 ---
 # Page header/frontmatter field
 
-Each page requires a header, or 'frontmatter'. The frontmatter contains metadata about the document, and is not displayed on the web page.
+Each page requires a header, or 'frontmatter'. The frontmatter contains the metadata about the document, and is not displayed on the web page.
 
 Frontmatter example:
 
 ```
 ---
+id: usually-file-name
 title: Page header/frontmatter field
-weight: 50
-last_reviewed_on: 2021-10-20
-review_in: 22 weeks
-owner: platform-team
 ---
 ```
 
@@ -25,13 +22,17 @@ The frontmatter should contain:
 
 Three dashes to mark the start and end of the frontmatter. They are always on separate lines. There are no spaces between the dashes.
 
+`id:`
+
+The page identification. This should be the file name.
+
 `title:`
 
 The title of the page. This should be the same as the header 1 title (# heading1)
 
 `weight:`
 
-This number sorts where the page will display in its section on the sidebar menu. The lower the number of the weight, the higher the position it will be in that section. See [**File organisation**](/documentation/writing/file-organisation.html.md.erb) for further details.
+This number sorts where the page will display in its section on the sidebar menu. The lower the number of the weight, the higher the position it will be in that section. See [**File organisation**](writing/file-organisation.md) for further details.
 
 `last_reviewed_on`
 
