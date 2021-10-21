@@ -1,8 +1,6 @@
 ---
+id: page-header-fields
 title: Page header/frontmatter field
-weight: 100
-last_reviewed_on: 2021-10-20
-review_in: 22 weeks
 ---
 # Page header/frontmatter field
 
